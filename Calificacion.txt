@@ -1,0 +1,12 @@
+Detalle Calificacion
+Requisitos Funcionales (5 Puntos): 2.5. El codigo funciona pero no usa arregle de objetos. 
+Errores Manejados o no tiene en consola (2 Puntos): 1 Punto. No hay errores de JS, pero no valido nada.
+Buen Uso de Funciones, Ciclos y DRY (2 Puntos): 1. Le falto ciclos for para iterar sobre arreglo de objetos, pero no lo hizo asi.
+Comentarios (1 Punto): 0.25 Tiene unos comentarios pero nada acerca del programa actual
+Subio bien a github (1 Punto bonus): 1.
+Total: 5.75
+
+Comentarios Profesor
+Buena organizacion en carpetas, algunos estudiantes no hicieron eso.
+Uso arreglos pero no arreglo de objetos, eso era un requisito
+No hay validaciones para cuando el usuario ingresa mayusculas o minusculas.
